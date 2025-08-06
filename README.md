@@ -58,4 +58,4 @@ For any commands you don't want permanently logged on the server, use the `quiet
 
 ## Further Reading
 
-For a more detailed, step-by-step guide on the setup process, please refer to the `notes/setup-guide.md` file.
+For a more detailed, step-by-step guide on the setup process, please refer to the [notes/setup-guide.md](notes/setup-guide.md) file.
