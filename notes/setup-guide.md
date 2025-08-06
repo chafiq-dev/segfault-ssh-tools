@@ -40,7 +40,7 @@ host artefactgrass
     User root
     HostName lsd.segfault.net
     IdentityFile ~/.ssh/id_sf-lsd-segfault-net
-    SetEnv SECRET=VYffffgOUKMjUFEQmhhfdrM
+    SetEnv SECRET=XXXXXXXXXXXXXXXXXXXXXXXX
     LocalForward 5900 0:5900
 __EOF__
 chmod 600 ~/.ssh/config ~/.ssh/id_sf-lsd-segfault-net
