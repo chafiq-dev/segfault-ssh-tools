@@ -17,7 +17,7 @@ The first time you connect to segfault.net, the server generates a unique privat
 To use these tools, simply clone this repository to your local machine:
 
 ```bash
-git clone [https://github.com/chafiq-dev/segfault-ssh-tools.git](https://github.com/chafiq-dev/segfault-ssh-tools.git)
+git clone https://github.com/chafiq-dev/segfault-ssh-tools.git
 ````
 
 ## File Descriptions
